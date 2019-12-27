@@ -1,0 +1,61 @@
+body
+{
+  text-align:center;
+  background-color: #90303d;
+}
+.heading p
+{
+    font-size: 6rem;
+}
+button
+{
+  border: 0px;
+  width:8rem;
+  height: 8rem;
+  font-size: 4rem;
+  font-family: fantasy;
+  color:#46185f;
+}
+button:hover
+{
+  background-color: #9aceff;
+}
+button:active
+{
+  background-color: #018383;
+}
+.w
+{
+  background-image: url('crash.png');
+  background-size:cover;
+}
+.a
+{
+  background-image: url('tom2.png');
+  background-size:cover;
+}
+.s
+{
+  background-image: url('tom1.png');
+  background-size:cover;
+}
+.d
+{
+  background-image: url('kick.png');
+  background-size:cover;
+}
+.j
+{
+  background-image: url('tom3.png');
+  background-size:cover;
+}
+.k
+{
+  background-image: url('tom4.png');
+  background-size:cover;
+}
+.l
+{
+  background-image: url('snare.png');
+  background-size:cover;
+}
